@@ -1,0 +1,6 @@
+@HealthyolBackend_HostAddress = http://localhost:5269
+
+GET {{HealthyolBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
